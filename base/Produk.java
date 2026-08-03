@@ -1,4 +1,4 @@
-package basee;
+package base;
 
 public class Produk {
     public String nama;
@@ -14,10 +14,10 @@ public class Produk {
     }
 
 public void tampilInfo(){
-    System.out.println("Produk      : " + nama);
-    System.out.println("Kategori    : " + kategori);
-    System.out.println("Harga       : Rp" + harga);
-    System.out.println("Stok        : " + stok);
+    System.out.println("Produk : " + nama);
+    System.out.println("Kategori : " + kategori);
+    System.out.println("Harga : Rp" + harga);
+    System.out.println("Stok : " + stok);
     System.out.println("-------------------");
 }
 }
