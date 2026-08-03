@@ -1,6 +1,6 @@
 package toko;
 
-import basee.Produk;
+import base.Produk;
 
  class Pemasukan extends Produk {
 
