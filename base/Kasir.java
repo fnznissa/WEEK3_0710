@@ -1,4 +1,4 @@
-package basee;
+package base;
 
 public class Kasir {
     void cekProduk(Produk p){
