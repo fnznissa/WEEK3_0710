@@ -1,4 +1,4 @@
-package basee;
+package base;
 
 public class Produk {
     public String nama;
